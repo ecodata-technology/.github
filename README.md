@@ -1,2 +1,2 @@
-# .github
-EcoData Technology, LLC designs custom analytics and software solutions for environmental practitioners in academia and industry.
+# EcoData Technology, LLC
+We design custom analytics, data, and software solutions for environmental practitioners in academia and industry.
