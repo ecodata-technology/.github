@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+# Who?
+Environmnetal Data Scientists, Agroecologists, R-programmers and all walks of life working for and collaboarting with EcoData Technology LLC.
 <!--
 
 **Here are some ideas to get you started:**
