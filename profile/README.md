@@ -1,14 +1,14 @@
-## Wecome to the GitHub page for EcoData Technology LLC
+## Welcome to the GitHub page for EcoData Technology LLC
 ## Who?
-Environmnetal Data Scientists, Agroecologists, R-programmers and all walks of life working for and collaboarting with EcoData Technology LLC.
+Environmental Data Scientists, Agroecologists, R-programmers and all walks of life working for and collaborating with EcoData Technology LLC.
 ## What?
 R, Python, and related code repositories for public-facing projects completed by EcoData Technology LLC.
 ## When?
 EcoData Technology LLC was formerly founded in March 2021.
 ## Where?
-Employees and contarctors of EcoData are located all over the world, with projects from California to Indonesia.
+Employees and contractors of EcoData are located all over the world, with projects from California to Indonesia.
 ## Why?
-Our company provides services for both the private sector and academic scientists. Some folks want to share the work publicly as a way to make data and code more accesable to other scientists.
+Our company provides services for both the private sector and academic scientists. Some folks want to share the work publicly as a way to make data and code more accessible to other scientists.
 <!--
 
 **Here are some ideas to get you started:**
